@@ -8,7 +8,7 @@
 
 | Birthday  | Gender | Favourite colour | Favourite food | Pineapple on pizza |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 15 December  | M  | Green | Seafood | - [x]  |
+| 15 December  | M  | Green | Seafood | :heavy_check_mark:  |
 
 ## Hobbies
 
