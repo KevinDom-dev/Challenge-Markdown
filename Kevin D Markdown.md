@@ -8,7 +8,7 @@
 
 | Birthday  | Gender | Favourite colour | Favourite food | Pineapple on pizza |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 15 December  | M  | Green | Seafood | [x]  |
+| 15 December  | M  | Green | Seafood | - [x]  |
 
 ## Hobbies
 
@@ -21,7 +21,7 @@
 	* Terry Pratchett
 	* Robert Jordan
 	* Robin Hobb
-	*And many more*
+	* * And many more *
 * History 
 * Travelling
 
