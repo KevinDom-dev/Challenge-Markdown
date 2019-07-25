@@ -2,7 +2,7 @@
 
 *Stories of imagination tend to upset those without one. ― Terry Pratchett*
 
-![Kevin.png] (https://github.com/KevinDom-dev/Challenge-Markdown/blob/master/Kevin.png "Kevin.png")
+![Kevin.png](https://github.com/KevinDom-dev/Challenge-Markdown/blob/master/Kevin.png "Kevin.png")
 
 ## Me as a summary
 
@@ -37,4 +37,4 @@ As a child, I didn't know all words yet so I tried to fit the things I saw with 
 
 Leg sleeves are a valid name which should be adopted worldwide
 
-[<< previous]() [Kevin Dom] [next >>] ()
+[<< previous]() [Kevin Dom] [next >>]()
