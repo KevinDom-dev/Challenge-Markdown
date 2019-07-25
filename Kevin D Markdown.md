@@ -37,4 +37,4 @@ As a child, I didn't know all words yet so I tried to fit the things I saw with 
 
 Leg sleeves are a valid name which should be adopted worldwide
 
-[<< previous](https://github.com/Jeroen-editing/markdown/blob/master/MeMyself.md) || Kevin Dom || [next >>]()
+[<< previous](https://github.com/Jeroen-editing/markdown/blob/master/MeMyself.md) || Kevin Dom || [next >>](https://github.com/Eloualidgd/challenge-repository-markdown/blob/master/walidmarkdown.md)
